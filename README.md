@@ -35,6 +35,7 @@ Home           | Translate
 ```bash
 pip install tkinter
 pip install googletrans
+pip install Pillow
 ```
 3. Install this repository, click <a href="https://github.com/mohamedyanis/notepad/archive/master.zip"> here </a> to install it.
 4. Extract the folder
